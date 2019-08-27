@@ -11,12 +11,9 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Media"
-    url: /media/
     
   - title: "CV"
-    url: /cv/
+    url: /files/cv.pdf
     
   - title: "Contact"
     url: /contact/
