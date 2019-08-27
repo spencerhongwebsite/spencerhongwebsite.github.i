@@ -75,17 +75,17 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-128768355-1"
 
 
 # Site Author
 author:
   name             : "Spencer Hong"
   avatar           : "spencer.png"
-  bio              : "Chemical Engineer and Computational Researcher, focused on AI-based materials design/discovery and computational chemistry."
+  bio              : "Chemical engineer and computational researcher, focused on AI-based materials design/discovery and computational chemistry."
   location         : "Ithaca, NY"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "US Air Force Research Laboratory"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=kBjiJb8AAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Spencer_Hong"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :"hongspencer"
   orcid            : 
   pinterest        :
   soundcloud       :
