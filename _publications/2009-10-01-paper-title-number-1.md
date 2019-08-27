@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "How well do implicit solvation models represent intermolecular binding energies in organic-inorganic solutions?"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2019-07-31-compmatsci
+excerpt: 'Trends in Intermolecular binding energies between organic and inorganic species can be captured well in implicit-only solvation models. Implicit solvation models are roughly 300 times faster than explicit solvent models.'
+date: 2019-07-31
+venue: 'Computational Materials Science'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S092702561930429X '
+citation: 'Sorenson, B. A., Hong, S. S., Herbol, H. C., & Clancy, P. (2019). How well do implicit solvation models represent intermolecular binding energies in organic-inorganic solutions?. Computational Materials Science, 170, 109138.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Computational methods, including density functional theory, are proving to be powerful approaches to tame the otherwise overwhelming selection of optimal species and processing conditions to fabricate hybrid organic-inorganic perovskite (HOIP) thin films via solution processing. In that processing, the choice of solvents is known to play a critical role in the quality of the resulting thin film, but their inclusion in a simulation dominates the overall size of the system, and hence the computational effort. This creates an incentive to understand the minimal representation of solvent medium necessary to adequately model the interactions between HOIP building blocks...
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S092702561930429X)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Sorenson, B. A., Hong, S. S., Herbol, H. C., & Clancy, P. (2019). How well do implicit solvation models represent intermolecular binding energies in organic-inorganic solutions?. Computational Materials Science, 170, 109138.
