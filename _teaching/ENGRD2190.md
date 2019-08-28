@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ENGRI2190
 venue: "Cornell University, Robert F. Smith School of Chemical and Biomolecular Engineering"
-date: Fall Semester, 2019
+date: 2019-09-10
 location: "Ithaca, NY"
 ---
 
