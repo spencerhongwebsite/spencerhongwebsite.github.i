@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chemical Engineer & Computational Researcher"
+title:
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
