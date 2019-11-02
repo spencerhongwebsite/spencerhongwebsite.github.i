@@ -16,4 +16,4 @@ main:
     url: /files/cv.pdf
     
   - title: "Contact"
-    url: mailto:sh864@cornell.edu
+    url: /contact/
